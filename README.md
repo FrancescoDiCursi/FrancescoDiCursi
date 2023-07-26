@@ -1,3 +1,5 @@
+![1690338570069](https://github.com/FrancescoDiCursi/FrancescoDiCursi/assets/79453817/63e4aea6-5f35-40a8-86e8-13835bf8ae2f)
+
 ### Hi there 👋
 
 <!--
