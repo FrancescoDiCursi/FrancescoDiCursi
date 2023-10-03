@@ -24,8 +24,8 @@ _______________________________________________________
 ### Commissioned sites (just a few)
 
 - #### HulaHoop
-  A minimal site for children animation activties @ [texilium.github.io/HulaHoop](texilium.github.io/HulaHoop)
+  A minimal site for children animation activties @ [texilium.github.io/HulaHoop](https://texilium.github.io/HulaHoop)
 
 - #### Sillabo
-  A minimal word/syllable-based game intended for kids @ [francescodicursi.github.io/Sillabo](francescodicursi.github.io/Sillabo)
+  A minimal word/syllable-based game intended for kids @ [francescodicursi.github.io/Sillabo](https://francescodicursi.github.io/Sillabo)
 
