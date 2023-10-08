@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 [![Francesco Di Cursi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoDiCursi&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoDiCursi&layout=compact&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-_______________________________________________________
+
+<!--_______________________________________________________
 ### Commissioned sites (just a few)
 
 - #### HulaHoop
@@ -28,4 +28,4 @@ _______________________________________________________
 
 - #### Sillabo
   A minimal word/syllable-based game intended for kids @ [francescodicursi.github.io/Sillabo](https://francescodicursi.github.io/Sillabo)
-
+--->
