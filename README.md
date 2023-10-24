@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-🔭 I’m currently working on the [National PhD in Artificial Intelligence](https://phd-ai-society.di.unipi.it/) @ [IIT-CNR](https://www.iit.cnr.it/), [Pisa](https://www.unipi.it/).
+🔭 I’m currently working on the [Italian National PhD in AI for Society](https://phd-ai-society.di.unipi.it/) @ [IIT-CNR](https://www.iit.cnr.it/), [Pisa](https://www.unipi.it/).
 
 <!--
 **FrancescoDiCursi/FrancescoDiCursi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
