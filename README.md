@@ -19,7 +19,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Francesco Di Cursi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoDiCursi&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoDiCursi&layout=compact&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Francesco Di Cursi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoDiCursi&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoDiCursi&layout=compact&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://img.shields.io/github/stars/FrancescoDiCursi?label=Stars" alt="stars">
+
+
+
+
 
 <!--_______________________________________________________
 ### Commissioned sites (just a few)
